@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "exported_at": "2026-08-17T00:56:03.610312+00:00",
+    "channel_id": "C0BQ4QBGA3Z",
+    "channel_name": "hougiken_group_test",
+    "message_count": 4,
+    "range": "all_history"
+  },
+  "messages": [
+    {
+      "ts": "1786926742.635159",
+      "user": "U05VCMEACPJ",
+      "text": "<@U05VCMEACPJ>さんがチャンネルに参加しました",
+      "subtype": "channel_join",
+      "thread_ts": null,
+      "reply_count": 0,
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "ts": "1786926757.354149",
+      "user": "U05VCMEACPJ",
+      "text": "とりあえず色々試してみる。",
+      "subtype": null,
+      "thread_ts": null,
+      "reply_count": 0,
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "ts": "1786926768.020489",
+      "user": "U05VCMEACPJ",
+      "text": "このグループへの投稿を、後でダウンロードしたい。",
+      "subtype": null,
+      "thread_ts": null,
+      "reply_count": 0,
+      "attachments": [],
+      "replies": []
+    },
+    {
+      "ts": "1786928086.686059",
+      "user": "U0BQGHX6AKX",
+      "text": "<@U0BQGHX6AKX>さんがチャンネルに参加しました",
+      "subtype": "channel_join",
+      "thread_ts": null,
+      "reply_count": 0,
+      "attachments": [],
+      "replies": []
+    }
+  ]
+}
